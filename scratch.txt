@@ -1,0 +1,21 @@
+{
+  "ts-node": {
+    "cwd": "/Users/nlindberg/workspace/test-tsconfig",
+    "projectSearchDir": "/Users/nlindberg/workspace/test-tsconfig",
+    "require": [],
+    "project": "/Users/nlindberg/workspace/test-tsconfig/tsconfig.json"
+  },
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "sourceMap": true,
+    "inlineSourceMap": false,
+    "inlineSources": true,
+    "declaration": false,
+    "noEmit": false,
+    "outDir": "./.ts-node",
+    "target": "es5",
+    "module": "commonjs"
+  }
+}
+
+
